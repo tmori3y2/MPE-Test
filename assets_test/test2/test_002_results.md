@@ -8,7 +8,7 @@ markdown:
 
 > @import "test_002.puml"
 
-> ![](..\assets\test_002.png?0.45261648290137213)
+> \!\[](..\assets\test_002.png?0.45261648290137213)
 
 ![](..\assets\test_002.png?0.45261648290137213)
 
